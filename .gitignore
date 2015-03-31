@@ -11,8 +11,7 @@
 log/*
 !/log/.keep
 /tmp
-.idea/
-.idea/workspace.xml
+.idea/*
 .DS_Store
 public/assets
 
